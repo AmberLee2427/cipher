@@ -14,13 +14,20 @@ Below is the complete substitution list, of known communication decoys.
 
 | Decoy word | Substitution Word |
 | :---: | :---: |
-| Novel | Cipher |
+| Book | Cipher |
 | Important |  Secret |
 | Steve | Search Guy |
-| Jesus | Watchdog |
-| Post | Message |
+| Friends | Watchdog |
+| DM | Message |
 | Follow | Love |
 | Orion | Cassius |
+| Proofread | Decode |
+| Key | Response |
+| Buy | Understand |
+| Unwilling | Unable |
+| Writing | Naughty |
+| Activity | Word |
+| Do | Send |
 
 ### Bold
 
