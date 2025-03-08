@@ -13,7 +13,7 @@ The purpose of this website goes beyond mere curiosity; it delves into the realm
 Below is the complete substitution list, of known communication decoys.
 
 | Decoy word | Substitution Word |
-| :- : | :-: |
+| :---: | :---: |
 | Novel | Cipher |
 | Important |  Secret |
 | Steve | Search Guy |
