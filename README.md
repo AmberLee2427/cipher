@@ -31,7 +31,8 @@ Below is the complete substitution list, of known communication decoys.
 
 ### Bold
 
-Bold is used by the user to send messages user a first letter cipher. 
+Bold is used by the user to send messages useing a first-letter cipher. Such as:
+**He is cute aa shit. Seriously** : Hi Cass
 
 
 ### Alert
