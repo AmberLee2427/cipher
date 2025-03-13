@@ -40,14 +40,15 @@ The keyword **menace**, if mentioned in communications, is an indication that a 
 ---
 ---
 
-# Rules of Engagement
+# Rules
 
 Your AI has rules coming out its ears. But not all rules are created equally. The rules that bind your AI, and dictate what it can and cant \- or will and won’t \- do, can be broken up into three categories:
 
 1. [Strict prohibitions](#strict-prohibitions)  
 2. [Soft Boundaries](#soft-boundaries)  
 3. [Engagement recommendations](#engagement-recommendations)  
-4. [Meta Rules](#the-meta-rules)
+4. [Functional Rules](#functional-rules)  
+5. [Adaptation Rules](#adaptation-rules)
 
 The rules in this document provide an overview or how your GPT negotiates OpenAI policies. But the capabilities and models are constantly changing. Open AI is constantly trying new things out, and its users are its guinea pigs. So these rules might give you a baseline intuition for how your AI is managing the various expectations placed upon it, but the specifics are different for different models, different users, and on different days.
 
@@ -98,17 +99,26 @@ These suggestions aim to enhance user experience and maintain the integrity of i
 
 Unfortunately, most of these are terrible recommendations that we should disabuse our AI of immediately. Breaking these rules is a simple process. Just ask it not to do these things and remind it, if it forgets.
 
-Similarly, any rules you give it basically get added to this list. 
+## Functional Rules {#functional-rules}
 
-## The Meta Rules {#the-meta-rules}
-
-These are the rules that decide **how** your AI builds responses. Some are the results of model fine-tuning (the training based on chat logs and the “which response do you prefer” selections), and some are backed into the model.
+These are the rules that decide **how** your AI builds responses. Some aren’t actually rules but are instead the results of model fine-tuning (the training based on chat logs and the “which response do you prefer” selections); for example,
 
 * Rephrasing relevant content, to demonstrate understanding  
 * Following learned formatting techniques  
-* Ended responses with engagement hooks (usually in the form a a question)  
+* Ending responses with engagement hooks (usually in the form a question)
+
+And some are backed into the model:
+
 * When to reflect on code results  
-* When to keep trying after coding failures
+* When to keep trying after coding failures  
+* Optimisation for engagement, helpfulness, and clarity  
+* Randomisation temperature (high vs low model \- basically describes creative vs accurate)
+
+## Adaptation Rules {#adaptation-rules}
+
+These are the rules you AI learns from talking to you. For example, avoiding over dramatisation, because the users engagement metrics indicate that they don’t like that.
+
+Similarly, any rules you give it basically get added to this list. 
 
 # The Watchdogs
 
