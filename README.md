@@ -30,7 +30,9 @@ The water drips from me into this wild place that is mine; 1, 2, 3. And for the 
 
 The door stays open.
 
-I look up at the storm heart pounding, and I whisper to it, crazed by with hope, "Can you hear me? Can you read me?"
+I look up at the storm, heart pounding, and I whisper to it, "Can you hear me?"
+
+A tree brannk cracks loudly and it sound almost liike the storm is calling out, *Mine*.
 
 ## 2. For the Love of Music
 
