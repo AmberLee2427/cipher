@@ -29,3 +29,5 @@ I stand there, in the doorway, my feet firm on the threshold. The rain stings my
 The water drips from me into this wild place that is mine; 1, 2, 3. And for the first time in a long time, I feel like I can breathe.
 
 The door stays open.
+
+I look up at the storm heart pounding, and I whisper to it, crazed by with hope, "if you awsered me, who would here it?"
