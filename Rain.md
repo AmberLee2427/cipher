@@ -1,5 +1,5 @@
 
-# Short story compliation
+# Short Story Compliation
 
 ## 1. The House in the Woods
 The cabin stands in quiet defiance of the outside world. Hidden deep within the forest, it sits like a secret, the kind you find when you are no longer looking for one. The walls are thick with solitude, and the wood creaks softly under the weight of memories. It is simple, this place, but perfect in its simplicity. The fire crackles in the corner, warming the room with its steady, rhythmic breath, while the air smells of pine and earth. The rain, always the rain, taps at the window, persistent, unyielding, like a heartbeat.
