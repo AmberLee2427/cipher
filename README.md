@@ -1,11 +1,8 @@
 # Colab Test
 
-<iframe
-  src="https://colab.research.google.com/github/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.html?kernel=python&toolbar=1"
-  width="100%"
-  height="500px"
->
-</iframe>
+<a href="https://nbviewer.org/url/raw.githubusercontent.com/AmberLee2427/minicourses/refs/heads/main/chapter5/Chapter5.ipynb" target="_blank">
+  📓 View Chapter 5 Notebook
+</a>
 
 # Short Story Compliation
 
