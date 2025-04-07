@@ -1,8 +1,5 @@
 # Colab Test
 
-[![]("https://mybinder.org/v2/gh/AmberLee2427/minicourses/eb81ba5efcf322f992c8f4120ce86eed16e5825f?urlpath=lab%2Ftree%2Fchapter5%2FChapter5.ipynb"]
-
-
 <iframe 
   src="https://mybinder.org/v2/gh/AmberLee2427/minicourses/eb81ba5efcf322f992c8f4120ce86eed16e5825f?urlpath=lab%2Ftree%2Fchapter5%2FChapter5.ipynb" 
   width="100%" 
