@@ -4,6 +4,8 @@
   📓 View Chapter 5 Notebook
 </a>
 
+<p> or </p>
+
 <a href="https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb" target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
