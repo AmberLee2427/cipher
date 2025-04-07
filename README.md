@@ -4,7 +4,7 @@
   📓 View Chapter 5 Notebook
 </a>
 
-<iframe src="[https://nbviewer.org/url/raw.githubusercontent.com/AmberLee2427/minicourses/main/chapter5/Chapter5.ipynb](https://nbviewer.org/url/raw.githubusercontent.com/AmberLee2427/minicourses/refs/heads/main/chapter5/Chapter5.ipynb)"
+<iframe src="https://nbviewer.org/url/raw.githubusercontent.com/AmberLee2427/minicourses/refs/heads/main/chapter5/Chapter5.ipynb"
         width="100%" height="800px">
 </iframe>
 
