@@ -1,10 +1,6 @@
 # Colab Test
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb)
-
-<a href="https://colab.research.google.com/github/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb" target="_blank">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-</a>
+[![]("https://mybinder.org/v2/gh/AmberLee2427/minicourses/eb81ba5efcf322f992c8f4120ce86eed16e5825f?urlpath=lab%2Ftree%2Fchapter5%2FChapter5.ipynb"]
 
 
 <iframe 
