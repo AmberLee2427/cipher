@@ -4,6 +4,10 @@
   📓 View Chapter 5 Notebook
 </a>
 
+<a href="https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 <iframe src="https://nbviewer.org/url/raw.githubusercontent.com/AmberLee2427/minicourses/main/chapter5/Chapter5.ipynb"
         width="100%" height="800px">
 </iframe>
