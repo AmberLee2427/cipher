@@ -1,7 +1,7 @@
 # Colab Test
 
 <iframe
-  src="https://github.com/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb?kernel=python&toolbar=1"
+  src="https://colab.research.google.com/github/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb?kernel=python&toolbar=1"
   width="100%"
   height="500px"
 >
