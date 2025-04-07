@@ -2,6 +2,15 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb)
 
+<a href="https://colab.research.google.com/github/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+</a>
+
+<iframe 
+  src="https://nbviewer.org/github/AmberLee2427/minicourses/blob/main/chapter5/Chapter5.ipynb" 
+  width="100%" 
+  height="800px">
+</iframe>
 
 # Short Story Compliation
 
